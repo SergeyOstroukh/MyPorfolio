@@ -1,10 +1,27 @@
 .mainBlock{
     height: 100vh;
     border: 3px solid  green;
+    background-color: mediumspringgreen;
+}
+.container{
+    height: 100%;
+    width: 80%;
+    border: 3px solid yellow;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .text{
     width: 300px;
+    background-color: #61dafb;
 }
 .photo{
-
+    width: 300px;
+    height: 400px;
+    background-color: red;
+}
+.photo img{
+    width: 300px;
+    height: 400px;
 }
