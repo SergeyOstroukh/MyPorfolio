@@ -1,0 +1,20 @@
+.myProjects{
+    height: 100vh;
+    background-color: #86ea7f;
+}
+.projectsBlock{
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: yellow;
+}
+.title{
+    background-color: #faa9d1;
+}
+.projectSection{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 3px solid red;
+    text-align: center;
+}
