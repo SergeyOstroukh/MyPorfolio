@@ -5,7 +5,6 @@
 .projectsBlock{
     flex-direction: column;
     justify-content: flex-start;
-    background-color: yellow;
 }
 .title{
     background-color: #faa9d1;

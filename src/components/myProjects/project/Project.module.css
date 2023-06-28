@@ -1,5 +1,5 @@
 .project{
-    width: 250px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,6 +7,9 @@
     background-color: #61dafb;
 }
 .img{
-    height: 60px;
-    width: 60px;
+    height: 350px;
+    width: 350px;
+}
+.description{
+    Word-break: break-all;
 }
