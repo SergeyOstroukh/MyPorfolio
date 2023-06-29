@@ -1,0 +1,16 @@
+.footer{
+    height: 20vh;
+    background-color: #d1ecf6;
+}
+
+.footerContainer{
+
+    display: flex;
+    flex-direction: column;
+}
+.images{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+}

@@ -1,10 +1,12 @@
 .contacts{
-    height: 100vh;
+    height: 60vh;
     background-color: #f6c5de;
 }
-.mainBlock{
-    width: 100%;
+
+.mainForm{
+
     display: flex;
     flex-direction: column;
-    border: 2px solid black;
+    justify-content: space-between;
+    /*border: 1px solid red;*/
 }
